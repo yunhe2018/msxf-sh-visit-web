@@ -1,0 +1,13 @@
+[{
+        "menuName": "访客记录",
+        "menuUrl": "/visitor"
+      },
+  {
+        "menuName": "被访者列表",
+        "menuUrl": "/respondents"
+      },
+  {
+    "menuName": "发布规则",
+    "menuUrl": "/releas/rule"
+  }
+]
